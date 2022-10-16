@@ -1,8 +1,11 @@
 *.pyc
 *~
 __pycache__
-venv
 db.sqlite3
 /static
 .DS_Store
 /venv
+./dsf
+/dsf/*
+/dsf
+sdf.pyc
