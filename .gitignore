@@ -8,4 +8,4 @@ db.sqlite3
 ./dsf
 /dsf/*
 /dsf
-sdf.pyc
+sdf.py
